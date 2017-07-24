@@ -1,1 +1,21 @@
-theme: jekyll-theme-dinky
+# Base configs
+baseurl: ""
+url: "https://bibi-photography.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "BiBi Photography"
+subtitle: "Professional photographer in Sarasota, Florida"
+author: "Bogdana Burlacu"
+bio: "I am a professional wedding, corporate and real-estate photographer from Sarasota, Florida. Contact me for more information."
+publicise: ""
+web_design: "JV"
+social_urls:
+  facebook: ""
+  twitter: ""
+  instagram: ""
+  dribbble: ""
+  linkedin: ""
+  github: ""
+  
