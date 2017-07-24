@@ -200,7 +200,7 @@
 
 	strong, b {
 		color: #ffffff;
-		font-weight: 300;
+		font-weight: 400;
 	}
 
 	em, i {
@@ -1396,7 +1396,7 @@
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #1f2224;
+		background: ##2f8932;
 		bottom: -1em;
 		height: 5em;
 		left: 0;
